@@ -1,0 +1,6 @@
+.countcard-container{
+    border: 0.5px solid black;
+    padding: 50px 10px auto 5px;
+    max-width: 250px;
+    max-height: 250px;
+}
